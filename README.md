@@ -2,4 +2,6 @@
 
 #GETTING STARTED
 
-Firstly you need to have XCODE installed on your computer
+1. Firstly you need to have XCODE installed on your computer
+2. 
+
